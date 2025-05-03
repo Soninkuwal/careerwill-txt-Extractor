@@ -22,6 +22,7 @@
 
 
 import os
+from config import API_ID, API_HASH, BOT_TOKEN, 
 from config import Config
 from pyrogram import Client, idle
 import asyncio, logging
