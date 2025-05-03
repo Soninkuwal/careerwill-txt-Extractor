@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # (c) ACE 
 
-import os import environ
+from os import environ
 
 class Config(object):
     # get a token from @BotFather
